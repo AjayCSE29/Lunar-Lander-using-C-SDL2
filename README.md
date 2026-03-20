@@ -1,7 +1,8 @@
-# Lunar-Lander-using-C-SDL2
-Fan remake of the game Lunar Lander released in 1979 with only C++  
+# Lunar-Lander-using-C++-SDL2
+Remake of the game Lunar Lander released in 1979 with only C++  
     
   <img width="424" height="736" alt="file_00000000f6c47208b921184e9eccd6f0" src="https://github.com/user-attachments/assets/c0e3c254-5036-4697-9ba5-c3657659b9aa" />  
+  
 This is the overall flow of the game logic.  
 
 This game, as of now has three primary scenes:  
