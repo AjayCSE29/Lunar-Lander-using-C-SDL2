@@ -4,12 +4,12 @@ Fan remake of the game Lunar Lander released in 1979 with only C++
   <img width="424" height="736" alt="file_00000000f6c47208b921184e9eccd6f0" src="https://github.com/user-attachments/assets/c0e3c254-5036-4697-9ba5-c3657659b9aa" />  
 This is the overall flow of the game logic.  
 
-  This game, as of now has three primary scenes:  
+This game, as of now has three primary scenes:  
               1.    MENU  
               2.    LOADING  
               3.    GAME  
               4.    END  
-The following are the gameplays:
+The following are the gameplays:  
 MENU:  
 <img width="400" height="225" alt="re_menu" src="https://github.com/user-attachments/assets/47e514fe-fb8f-48a4-aafa-0c4ca00140e3" />  
 
