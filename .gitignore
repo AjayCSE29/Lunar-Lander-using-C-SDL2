@@ -1,0 +1,20 @@
+# Build folders
+build/
+out/
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Executables
+*.exe
+*.dll
+
+# Debug symbols
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/

@@ -1,6 +1,7 @@
 #include "Terrain.h"
 #include<SDL2/SDL_image.h>
 #include<iostream>
+#include <string>
 
 Terrain::Terrain(SDL_Renderer* renderer){
   for(int i=1; i<=6; i++){
